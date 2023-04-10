@@ -366,7 +366,7 @@ p {
 .container {
     position: relative;
     display: flex;
-    gap: 15px;
+    gap: 10px;
     top:-20px;
     margin-left: 30px;
 }
