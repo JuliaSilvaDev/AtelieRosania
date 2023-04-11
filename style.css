@@ -373,11 +373,12 @@ p {
 
 .container .caixa {
     position: relative;
-    width: 310px;
-    height: 400px;
+    width: 300px;
+    height: 390px;
     background: #fff;
     transition: .9s;
     filter: grayscale(100%);
+    background-size: cover;
 }
 
 .container .caixa:hover {
